@@ -18,7 +18,7 @@
 - :computer: Estou estudando React.
 - :heart: Apaixonada por tecnologia, minha família e esportes.
 - :house: Betim - MG.
-- :snake: Acesse o meu joguinho da cobrinha e se divirta-se: https://lorrainesrezende.github.io/jogo_cobrinha/
+- :snake: Acesse o meu joguinho da cobrinha e divirta-se: https://lorrainesrezende.github.io/jogo_cobrinha/
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
