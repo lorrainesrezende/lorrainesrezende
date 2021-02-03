@@ -15,7 +15,7 @@
 </a>
 
 - :pencil2: Sou desenvolvedora front-end, com conhecimento em HTML5, CSS3, JavaScript, Bootstrap, Git, GitHub.
-- :computer: Estou estudando React.
+- :computer: Estou estudando React e cursando graduação em Análise e Desenvolvimento de Sistemas.
 - :heart: Apaixonada por tecnologia, minha família e esportes.
 - :house: Betim - MG.
 - :snake: Acesse o meu joguinho da cobrinha e divirta-se: https://lorrainesrezende.github.io/jogo_cobrinha/
