@@ -4,8 +4,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994470838&text=Hello!)](https://api.whatsapp.com/send?31994470838&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorrainesrezende@gmail.com)](mailto:lorrainesrezende@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
-
 ### Sobre mim 
 
 - :pencil2: Sou desenvolvedora front-end, com conhecimento em HTML5, CSS3, JavaScript, Bootstrap, Git, GitHub.
