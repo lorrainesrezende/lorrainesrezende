@@ -8,16 +8,6 @@
 
 ### Sobre mim 
 
-&nbsp; &nbsp; <a target="_blank" href="https://api.whatsapp.com/send?phone=5531994470838">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/lorraine.r/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:lorrainesrezende@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
 - :pencil2: Sou desenvolvedora front-end, com conhecimento em HTML5, CSS3, JavaScript, Bootstrap, Git, GitHub.
 - :computer: Estou estudando React e cursando graduação em Análise e Desenvolvimento de Sistemas.
 - :heart: Apaixonada por tecnologia, minha família e esportes.
