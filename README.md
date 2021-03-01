@@ -6,7 +6,7 @@
 
 ### Sobre mim 
 
-- :pencil2: Sou desenvolvedora front-end, com conhecimento em HTML5, CSS3, JavaScript, Bootstrap, Git, GitHub.
+- :pencil2: Sou desenvolvedora front-end, com conhecimento em HTML5, CSS3, JavaScript, React JS, Bootstrap, Git, GitHub.
 - :computer: Estou estudando React e cursando graduação em Análise e Desenvolvimento de Sistemas.
 - :heart: Apaixonada por tecnologia, minha família e esportes.
 - :house: Betim - MG.
