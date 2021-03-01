@@ -1,6 +1,10 @@
 # Lorraine Silva de Rezende
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lorrainesrezende)](https://github.com/lorrainesrezende)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorrainesrezende/)](https://www.linkedin.com/in/lorrainesrezende/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994470838&text=Hello!)](https://api.whatsapp.com/send?31994470838&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorrainesrezende@gmail.com)](mailto:lorrainesrezende@gmail.com)
+
+<img src="https://user-images.githubusercontent.com/53521650/109302381-f7171c80-7817-11eb-898e-fbb3db8f005e.png" width=400 align=right>
 
 ### Sobre mim 
 
@@ -27,11 +31,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=lorrainesrezende&show_icons=true&theme=radical&layout=compact)
+
 <p>
   <a href= "https://github.com/lorrainesrezende/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainesrezende&layout=compact">
   </a>
 </p>
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorrainesrezende&show_icons=true)
-
+![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=lorrainesrezende&show_icons=true&theme=radical&layout=compact)
