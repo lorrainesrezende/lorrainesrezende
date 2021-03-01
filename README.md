@@ -39,4 +39,3 @@
   </a>
 </p>
 
-![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=lorrainesrezende&show_icons=true&theme=radical&layout=compact)
