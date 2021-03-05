@@ -10,7 +10,7 @@
 - :computer: Estou estudando React e cursando graduação em Análise e Desenvolvimento de Sistemas.
 - :heart: Apaixonada por tecnologia, minha família e esportes.
 - :house: Betim - MG.
-- :clipboard: Acesse meu currículo em: https://drive.google.com/file/d/1_2uH234pOV6COBHaKZee2TO_qulCsNTM/view?usp=sharing
+- :clipboard: Acesse meu currículo em: https://drive.google.com/file/d/1grwrpCl51dzevZ6S0POLpIaBDBpPGy9I/view?usp=drivesdk
 - :snake: Acesse o meu joguinho da cobrinha e divirta-se: https://lorrainesrezende.github.io/jogo_cobrinha/
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,3 +25,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainesrezende&layout=compact&theme=dark"> 
 </p>
   
+ 
