@@ -21,13 +21,13 @@
 
 ![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=lorrainesrezende&show_icons=true&theme=radical&layout=compact)
 
-<p align="center">
+<p>
   <a href= "https://github.com/lorrainesrezende/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainesrezende&layout=compact">
   </a>
 </p>
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainesrezende&layout=compact&theme=dark"> 
 </p>
   
