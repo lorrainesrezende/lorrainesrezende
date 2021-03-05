@@ -22,12 +22,6 @@
 ![EstatísticasdoGitHubdeAnurag](https://github-readme-stats.vercel.app/api?username=lorrainesrezende&show_icons=true&theme=radical&layout=compact)
 
 <p>
-  <a href= "https://github.com/lorrainesrezende/github-readme-stats">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainesrezende&layout=compact">
-  </a>
-</p>
-
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainesrezende&layout=compact&theme=dark"> 
 </p>
   
