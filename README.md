@@ -1,7 +1,7 @@
 # Lorraine Silva de Rezende
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lorrainesrezende)](https://github.com/lorrainesrezende)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorrainesrezende/)](https://www.linkedin.com/in/lorrainesrezende/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994470838&text=Hello!)](https://api.whatsapp.com/send?31994470838&text=Olá Lorraine!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994470838&text=Hello!)](https://api.whatsapp.com/send?31994470838&text=Olá_Lorraine!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorrainesrezende@gmail.com)](mailto:lorrainesrezende@gmail.com)
 
 ### Sobre mim 
