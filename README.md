@@ -10,7 +10,7 @@
 - :computer: Estou estudando Angular e cursando graduação em Análise e Desenvolvimento de Sistemas.
 - :heart: Apaixonada por tecnologia, minha família e esportes.
 - :house: Betim - MG.
-- :clipboard: Acesse meu currículo em: https://drive.google.com/file/d/1_lxbkxb327JPHZQh2sLCUrbPRZSMaQxK/view?usp=sharing
+- :clipboard: Acesse meu currículo em: https://drive.google.com/file/d/1fFdr4Kvr1cVXbjWl3GD3f7Xm-RT5q7dH/view?usp=sharing
 - :snake: Acesse o meu joguinho da cobrinha e divirta-se: https://lorrainesrezende.github.io/jogo_cobrinha/
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
