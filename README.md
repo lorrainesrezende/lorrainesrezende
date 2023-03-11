@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/lorrainesrezende)](https://github.com/lorrainesrezende)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorrainesrezende/)](https://www.linkedin.com/in/lorrainesrezende/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994470838&text=Hello!)](https://api.whatsapp.com/send?31994470838&text=Olá_Lorraine!)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lorraine.r)](https://www.instagram.com/arthurspk/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lorrainesrezende)](https://www.instagram.com/lorraine.r/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lorrainesrezende)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lorrainesrezende@gmail.com)](mailto:lorrainesrezende@gmail.com)
 
